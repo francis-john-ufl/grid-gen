@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw
 
 # Config
 width = 801
-height = 601
+height = 651
 spacing = 50  # Distance between lines
 
 # Create transparent image
